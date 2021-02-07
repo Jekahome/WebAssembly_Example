@@ -1,0 +1,14 @@
+{
+  "name": "wasm-test",
+  "version": "1.0.0",
+  "description": "Playing around with Web Assembly",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Jarombek",
+  "license": "ISC",
+  "dependencies": {
+    "wabt": "^1.0.20"
+  }
+}
