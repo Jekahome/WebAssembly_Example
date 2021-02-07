@@ -2,7 +2,7 @@
 
 I am studying the syntax of this language
 
-![This is a alt text.](/ezgif-4-d575939a33c0 "This is a sample image.")
+![This is a alt text.](https://github.com/Jekahome/WebAssembly_Example/blob/main/ezgif-4-d575939a33c0.gif "This is a sample image.")
 
 ## Summary
 
